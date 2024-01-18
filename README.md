@@ -1,4 +1,4 @@
-<h1>Chukwunonso - Online Job Database</h1>
+<h1>Chukwunonso - Companies House Postcode Analysis</h1>
 
 <h2>Description</h2>
 Project aimed to understand the high-risk postcodes used for financial crime in the United Kingdom. Intelligence suggest high-volume postcode pose higher risks of financial crime in comparison to other. This helped colleagues in the regulation space in vetting entities or individuals who may pose harm to consumers in financial services. The Pythons script processed CH data and filtered the data to high-risk postcodes creating a list. This was also visualised on a map in Tableau to aid stakeholder understanding. 
